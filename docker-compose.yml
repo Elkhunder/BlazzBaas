@@ -1,0 +1,12 @@
+﻿services:
+  blazzbaas.client:
+    image: blazzbaas.client
+    build:
+      context: .
+      dockerfile: BlazzBaas.Client/Dockerfile
+
+  blazzbaas:
+    image: blazzbaas
+    build:
+      context: .
+      dockerfile: BlazzBaas/Dockerfile
