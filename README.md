@@ -1,4 +1,4 @@
-# BlazzBass
+# BlazzBaas
 
 A Starter Template for Blazor, Utilizing Bootstrap Saas with LibMan
 
@@ -150,3 +150,5 @@ $primary: hsl(265, 65%, 35%);
 After completing these steps, Bootstrap will be installed and ready for use in your project without needing any manual steps.
 
 <!-- TODO Add steps for compiling scss to css and creating css.min files -->
+
+<!-- TODO Add instructions for updating bootstrap version -->
